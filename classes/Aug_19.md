@@ -15,7 +15,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 - Quiz 1 (Individual) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Örpása (5 mín)
 - Quiz 1 (Group) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
-- Assignment x (opnast kl h:mm)
+- Assignment 1 (opnast kl h:mm)
 
 ## Eftir tímann:
 
@@ -42,7 +42,7 @@ You must use a Zoom account registered to your @ru.is email!
 - Quiz 1 (Individual) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Short break (5 min)
 - Quiz 1 (Group) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
-- Assignment x (opnast kl h:mm)
+- Assignment 1 (opnast kl h:mm)
 
 ## After class:
 
