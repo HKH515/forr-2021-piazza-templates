@@ -1,5 +1,8 @@
 # Piazza Q&A thread template
+
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
+
+Mæting er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu **insert stofa**
 
 ## Zoom hlekkur:
 
@@ -29,6 +32,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 If any questions arise in class you can put them here under followup discussion.
 
+Physical attendance is optional, for those who want to show up physically, the class takes place in classroom **insert classroom**
 ## Zoom link:
 
 You must use a Zoom account registered to your @ru.is email!
