@@ -43,7 +43,7 @@ You must use a Zoom account registered to your @ru.is email!
 - Quiz x (Individual) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Short break (5 min)
 - Quiz x (Group) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
-- Assignment x (opnast kl h:mm)
+- Assignment x (opens at h:mm)
 
 ## After class:
 
