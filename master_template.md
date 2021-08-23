@@ -1,4 +1,5 @@
 # Piazza Q&A thread template
+Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
 
 ## Zoom hlekkur:
 
@@ -26,6 +27,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ---
 
+If any questions arise during the class you can put them here under followup discussion.
 ## Zoom link:
 
 You must use a Zoom account registered to your @ru.is email!
