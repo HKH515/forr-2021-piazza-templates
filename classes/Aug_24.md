@@ -1,5 +1,8 @@
 # Piazza Q&A thread template
+
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
+
+Mæting er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu **insert stofa**
 
 ## Zoom hlekkur:
 
@@ -12,7 +15,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Dagskrá:
 
-- Myndband um efni úr kafla x (nafn á kafla) (20 mín)
+- Myndband um efni úr kafla 2 (20 mín)
 - Quiz 2 (Individual) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Örpása (5 mín)
 - Quiz 2 (Group) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
@@ -29,6 +32,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 If any questions arise in class you can put them here under followup discussion.
 
+Physical attendance is optional, for those who want to show up physically, the class takes place in classroom **insert classroom**
 ## Zoom link:
 
 You must use a Zoom account registered to your @ru.is email!
@@ -40,7 +44,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## Schedule:
 
-- Video on the material from chapter x (name of chapter) (20 minutes)
+- Video on the material from chapter 2 (20 minutes)
 - Quiz 2 (Individual) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Short break (5 min)
 - Quiz 2 (Group) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
