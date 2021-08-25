@@ -1,6 +1,8 @@
 # Piazza Q&A thread template
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
 
+Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu X.
+
 ## Zoom hlekkur:
 
 Nota þarf Zoom reikning með @ru.is netfangi!
@@ -28,6 +30,9 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 ---
 
 If any questions arise during the class you can put them here under followup discussion.
+
+Physical attendance is optional, for those who want to show up physically, the class takes place in classroom X.
+
 ## Zoom link:
 
 You must use a Zoom account registered to your @ru.is email!
@@ -43,7 +48,7 @@ You must use a Zoom account registered to your @ru.is email!
 - Quiz x (Individual) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Short break (5 min)
 - Quiz x (Group) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
-- Assignment x (opnast kl h:mm)
+- Assignment x (opens at h:mm)
 
 ## After class:
 
