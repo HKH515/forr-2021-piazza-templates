@@ -16,6 +16,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 ## Dagskrá:
 
 - Myndband um reiknirit (24 mín)
+- Stutt git demo frá kennara (15 mín)
 - Assignment 5 (opnast kl h:mm)
 - Örpása (5 mín)
 - Quiz 5 (Individual) (15 mín, í lok tíma) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
@@ -48,6 +49,7 @@ You must use a Zoom account registered to your @ru.is email!
 ## Schedule:
 
 - Video on algorithms (24 minutes)
+- Short git demo by teacher (15 minutes)
 - Assignment 5 (opens at h:mm)
 - Short break (5 min)
 - Quiz 5 (Individual) (15 min, at the end of class) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
