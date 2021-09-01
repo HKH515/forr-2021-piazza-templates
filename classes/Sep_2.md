@@ -58,7 +58,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## After class:
 
-### Material that needs to be reviewed before the next (tuesday/thursday):
+### Material that needs to be reviewed before the next tuesday:
 
 - The Practice of Computing Using Python (3rd ed)
     - Chapters: 4 (skip 4.9) on strings and Appendix C1 - C2 (skip C2.3.3 and C.2.5) on debugging.
