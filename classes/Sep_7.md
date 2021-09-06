@@ -1,4 +1,4 @@
-# Midtern exam 1
+# Midterm exam 1
 
 Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu X.
 
