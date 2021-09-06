@@ -12,7 +12,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Eftir tímann:
 
-### Efni sem þarf að skoða fyrir næsta (þriðjudag/fimmtudag):
+### Efni sem þarf að skoða fyrir næsta fimmtudag:
 
 - The Practice of Computing Using Python (3rd ed)
     - Kaflar: 4 (sleppa 4.9) um strengi, og Appendix C1 - C2 (sleppa C2.2.3 og C.2.5) um aflúsun.
@@ -38,7 +38,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## After class:
 
-### Material that needs to be reviewed before the next (tuesday/thursday):
+### Material that needs to be reviewed before the next thursday:
 
 - The Practice of Computing Using Python (3rd ed)
     - Chapters: 4 (skip 4.9) on strings, and Appendix C1 - C2 (skip C2.2.3 and C.2.5) on debugging.
