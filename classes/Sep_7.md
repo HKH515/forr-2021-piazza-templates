@@ -27,11 +27,6 @@ Physical attendance is optional, for those who want to show up physically, the c
 
 You must use a Zoom account registered to your @ru.is email!
 
-## Material you need to review ***before*** the class:
-
-- The Practice of Computing Using Python (3rd ed)
-    - Chapters:
-
 ## Schedule:
 
 - Exam opens when class starts, and is open for 2.5 hours.
