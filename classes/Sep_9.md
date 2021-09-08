@@ -1,9 +1,9 @@
 # Programming class - Sep. 9th
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
 
-Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu M110.
+Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu x.
 
-## Zoom hlekkur: https://eu01web.zoom.us/j/64851407482
+## Zoom hlekkur: 
 
 Nota þarf Zoom reikning með @ru.is netfangi!
 
@@ -31,9 +31,9 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 If any questions arise during the class you can put them here under followup discussion.
 
-Physical attendance is optional, for those who want to show up physically, the class takes place in classroom M110.
+Physical attendance is optional, for those who want to show up physically, the class takes place in classroom x.
 
-## Zoom link: https://eu01web.zoom.us/j/64851407482
+## Zoom link:
 
 You must use a Zoom account registered to your @ru.is email!
 
