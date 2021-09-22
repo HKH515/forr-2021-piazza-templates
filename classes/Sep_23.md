@@ -1,4 +1,4 @@
-# Programming class - Sep 23th (Lists)
+# Programming class - Sep 23rd (Lists)
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
 
 Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu X.
