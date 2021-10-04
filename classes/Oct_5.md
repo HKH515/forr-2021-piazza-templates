@@ -9,7 +9,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Efni sem þarf að skoða ***fyrir*** tímann:
 
-Ekkert
+Ekkert nýtt, en efni til prófs er úr köflum 1-8 í kennslubókinni, gott að rifja það upp auðvitað.
 
 ## Dagskrá:
 
@@ -33,7 +33,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## Material you need to review ***before*** the class:
 
-Nothing
+Nothing new, but the exam is from material in chapters 1-8 in the textbook, so it's good to review that of course.
 
 ## Schedule:
 
