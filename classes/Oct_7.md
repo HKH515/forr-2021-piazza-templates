@@ -17,7 +17,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 - Assignment 13: TileTraveller 2 (opnast kl h:mm)
     - Þetta verkefni er byggt í kringum það að forrita saman, svokallað "pair-programming", þar sem tveir eða þrír forrita saman á einni tölvu, umræðan er tekin í hópnum um hvernig er best að leysa verkefnið, og einn forritar og hinir koma með ábendingar.
     - Þrátt fyrir að þið séuð að vinna þetta á einni vél, þá eigiði samt sem áður að nota git.
-    - (þetta atriði á aðeins við zoom nemendur): Ef þú vilt halda áfram að leysa TileTraveller 2 í sama hóp og þú leystir TileTraveller 1 í, þá geti þið skráð sem followup discussion á Piazza þráðinn fyrir hópinn þinn hverjir voru í hópnum.
+    - Ef þú vilt halda áfram að leysa TileTraveller 2 í sama hóp og þú leystir TileTraveller 1 í, þá geti þið skráð sem followup discussion á Piazza þráðinn fyrir hópinn þinn hverjir voru í hópnum. (þetta atriði á aðeins við zoom nemendur):
 
 ## Eftir tímann:
 
@@ -46,7 +46,8 @@ You must use a Zoom account registered to your @ru.is email!
 - Assignment 13: TileTraveller 2 (opens at h:mm)
     - Note that this assignment is tailored around pair-programming, where two or three people discuss a solution and it's implemented collaboratively on one machine.
     - Even though this is meant to be done on one machine, you should use git.
-    - (this line only applies to zoom students): If you wish to work on the assignment in the same group you were in when you solved TileTraveller 1, then please list the people who you were teamed up with as a followup discussion on the Piazza thread for the group you're in.
+    -If you wish to work on the assignment in the same group you were in when you solved TileTraveller 1, then please list the people who you were teamed up with as a followup discussion on the Piazza thread for the group you're in. (this line only applies to zoom students)I
+
 
 ## After class:
 
