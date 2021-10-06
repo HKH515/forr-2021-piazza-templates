@@ -9,7 +9,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Efni sem þarf að skoða ***fyrir*** tímann:
 
-- Ef þið ætlið að nýta ykkur kennaralausnina úr TileTraveller 1 (fáanlegt [hér](https://github.com/reykjavik-university/2021-3-T-111-PROG/blob/main/assignments/tiletraveller/tiletraveller.py)) til að útfæra TileTraveller 2, þá er best að kynna sér hana áður en tíminn byrjar.
+- Þið ættuð helst að byggja ofaná lausninni sem við gáfum út fyrir TileTraveller 1 (fáanlegt [hér](https://github.com/reykjavik-university/2021-3-T-111-PROG/blob/main/assignments/tiletraveller/tiletraveller.py)), það er mikilvægt að þið kynnið ykkur hvernig lausnin virkar áður en þið komið í tímann.
 
 ## Dagskrá:
 
@@ -38,7 +38,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## Material you need to review ***before*** the class:
 
-- If you intend to build upon the reference solution we published for TileTraveller 1 (available [here](https://github.com/reykjavik-university/2021-3-T-111-PROG/blob/main/assignments/tiletraveller/tiletraveller.py)), then you should be familiar with the solution before coming to class.
+- You should ideally build upon the reference solution we provided for TileTraveller 1 (available [here](https://github.com/reykjavik-university/2021-3-T-111-PROG/blob/main/assignments/tiletraveller/tiletraveller.py)), familiarize yourself with the solution before coming to class.
 
 ## Schedule:
 
