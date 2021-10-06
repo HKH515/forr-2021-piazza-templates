@@ -13,7 +13,9 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Dagskrá:
 
+- Ekkert quiz né myndband
 - Assignment 13: TileTraveller 2 (opnast kl h:mm)
+    - Þetta verkefni er byggt í kringum það að forrita saman, svokallað "pair-programming", þar sem tveir eða þrír forrita saman á einni tölvu, umræðan er tekin í hópnum um hvernig er best að leysa verkefnið, og einn forritar og hinir koma með ábendingar.
 
 ## Eftir tímann:
 
@@ -38,7 +40,9 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## Schedule:
 
+- No quiz or video
 - Assignment 13: TileTraveller 2 (opens at h:mm)
+    - Note that this assignment is tailored around pair-programming, where two or three people discuss a solution and it's implemented collaboratively on one machine.
 
 ## After class:
 
