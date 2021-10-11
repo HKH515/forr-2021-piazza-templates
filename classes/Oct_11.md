@@ -1,4 +1,4 @@
-# Programming class - Oct. 11
+# Programming class - Oct. 12th
 Ef þið hafið spurningar sem vakna í tímanum getið þið sett þær sem followup discussion hérna fyrir neðan.
 
 Mæting í skólastofu er valkvæm, fyrir þá sem vilja mæta þá fer kennsla fram í stofu X.
