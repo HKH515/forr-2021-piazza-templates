@@ -42,7 +42,6 @@ You must use a Zoom account registered to your @ru.is email!
 
 - The Practice of Computing Using Python (3rd ed)
     - Chapters: 9.1 - 9.3
-- Watch [this video](https://youtu.be/0OcVhMx5t5c)
 
 ## Schedule:
 
@@ -58,3 +57,4 @@ You must use a Zoom account registered to your @ru.is email!
 
 - The Practice of Computing Using Python (3rd ed)
     - Chapters: 9.4 - 9.8, and 9.11
+    - Watch [this video](https://youtu.be/0OcVhMx5t5c)
