@@ -22,7 +22,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Eftir tímann:
 
-### Efni sem þarf að skoða fyrir næsta (þriðjudag/fimmtudag):
+### Efni sem þarf að skoða fyrir næsta fimmtudag:
 
 - The Practice of Computing Using Python (3rd ed)
     - Kaflar: 9.4 - 9.8, og 9.11
@@ -53,7 +53,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## After class:
 
-### Material that needs to be reviewed before the next (tuesday/thursday):
+### Material that needs to be reviewed before the next thursday:
 
 - The Practice of Computing Using Python (3rd ed)
     - Chapters: 9.4 - 9.8, and 9.11
