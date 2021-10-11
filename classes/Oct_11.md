@@ -25,7 +25,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 ### Efni sem þarf að skoða fyrir næsta (þriðjudag/fimmtudag):
 
 - The Practice of Computing Using Python (3rd ed)
-    - Kaflar: 9.4 - 9.8, og 9.111
+    - Kaflar: 9.4 - 9.8, og 9.11
 - Horfa á [þetta myndband](https://youtu.be/0OcVhMx5t5c)
 
 ---
