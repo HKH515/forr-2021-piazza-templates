@@ -15,7 +15,7 @@ Nota þarf Zoom reikning með @ru.is netfangi!
 
 ## Dagskrá:
 
-- Myndband um efni úr kafla x (nafn á kafla) (20 mín)
+- Ekkert myndband
 - Quiz 17 (Individual) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Örpása (5 mín)
 - Quiz 17 (Group) (15 mín) - Fer fram á [Mími](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
@@ -47,7 +47,7 @@ You must use a Zoom account registered to your @ru.is email!
 
 ## Schedule:
 
-- Video on the material from chapter x (name of chapter) (20 minutes)
+- No video
 - Quiz 17 (Individual) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
 - Short break (5 min)
 - Quiz 17 (Group) (15 min) - On [Mímir](https://class.mimir.io/courses/ea6d4c19-bd9e-450e-acd9-370af0b5da0f)
